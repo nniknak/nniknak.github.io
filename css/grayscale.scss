@@ -192,9 +192,8 @@ a {
 .intro {
   display: table;
   width: 100%;
-  height: auto;
+  height: 100vh;
   text-align: center;
-  padding-top: 20rem;
   color: var(--font-color);
   background-color: var(--primary-color);
   -webkit-background-size: cover;
@@ -212,7 +211,6 @@ a {
     }
   }
   @media (min-width: 768px) {
-    height: 100%;
     .intro-body {
       .brand-heading {
         font-size: 6.25rem;
@@ -221,9 +219,6 @@ a {
         font-size: 1.6rem;
       }
     }
-  }
-  @media (min-width: 1200px) {
-    padding-top: 30rem;
   }
 }
 
