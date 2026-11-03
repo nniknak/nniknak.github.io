@@ -114,6 +114,7 @@ pages_list:
   About: "about"
 #  Blog: "latest-post"
 #  Timeline: "timeline"
+  CV: "cv"
   Contact: "contact"
 
 syntax_theme: everforest
