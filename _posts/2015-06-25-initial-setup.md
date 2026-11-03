@@ -75,7 +75,7 @@ navigation, simply delete its line. To reorder, rearrange the entries.
 To track your website traffic, add your Google Analytics tracking ID:
 
 ```yaml
-google-tracking-id: "UA-XXXXXXXX-X"
+google-tracking-id: "false"
 ```
 
 Set to `false` to disable tracking entirely.
