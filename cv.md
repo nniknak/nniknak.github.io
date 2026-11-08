@@ -5,8 +5,8 @@ title: "Curriculum Vitae"
 permalink: /cv/
 sitemap: true
 ---
-### Annika Kohrt
-- Chicago, IL
+# Annika Kohrt
+Chicago, IL
 
 ## Education
 - Dominican University, River Forest, IL  
@@ -16,8 +16,14 @@ sitemap: true
   Computer Science Minor
 
 ## Work Experience
-- **Public Services Librarian**
-  Abakanowicz Research Center, Chicago History Museum, Chicago, IL
+- **Abakanowicz Research Center, Chicago History Museum, Chicago, IL**
+  Public Services Librarian
   - Provide reference and research assistance to patrons, including genealogical research and local history inquiries.
-  - Fulfill nterlibrary loan functions and resource sharing for staff.
-  - 
+  - Fulfill interlibrary loan functions and resource sharing for staff.
+  - Manage remote scan ordering workflows and document storage.
+  - Support collection enhancement and access projects in collaboration with Collections staff.
+  - Create and maintain instructional content about ARC resources.
+  - Promote use and understanding of ARC collections amongst Museum members, interns, and staff, visiting classes, and area librarians.
+  - Analyze and report qualitative and quantitative data from various sources to support strategic planning.
+
+  Research Center Associate
