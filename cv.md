@@ -20,9 +20,9 @@ Chicago, IL
   *Public Services Librarian*    June 2026 - Present
   - Provide reference and research assistance to patrons, including genealogical research and local history inquiries.
   - Fulfill interlibrary loan functions and resource sharing for staff.
-  - Manage remote scan ordering workflows and document storage.
+  - Create and manage remote scan ordering workflows and document storage.
   - Support collection enhancement and access projects in collaboration with Collections staff.
-  - Create and maintain instructional content about ARC resources.
+  - Create and maintain instructional content about ARC resources, including [LibGuides](https://libguides.chicagohistory.org/prf.php?id=cb94c794-e39f-11ee-ad2f-0a92c88187d1) and [blog posts](https://www.chicagohistory.org/blog/?author=Annika%20Kohrt).
   - Promote use and understanding of ARC collections amongst Museum members, interns, and staff, visiting classes, and area librarians.
   - Analyze and report qualitative and quantitative data from various sources to support strategic planning.
   - Serve as union steward: communcating union news with members & mediating disputes.
